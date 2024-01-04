@@ -1,0 +1,5 @@
+This is where all my properly compressed images will be.
+Image format / extensions will be in 
+jpg or jpeg= Joint Photographic Experts Group
+png = Portable Network Graphics
+svg = Scalable Vector Graphics
