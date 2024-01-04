@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295.87 139.1">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 25.82px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 74.79px;
+      }
+
+      .cls-3 {
+        font-size: 81.59px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        font-family: ArialNarrow, Arial;
+        font-size: 21.76px;
+      }
+
+      .cls-4 {
+        font-size: 72.55px;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 70) scale(1.45 1)"><tspan x="0" y="0">O</tspan></text>
+  <text class="cls-2" transform="translate(5.18 89.47) scale(1.75 1)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-4" transform="translate(25.73 111.79) scale(1.95 1)"><tspan x="0" y="0">M</tspan></text>
+  <text class="cls-1" transform="translate(135.73 85.68) scale(1.31 1)"><tspan x="0" y="0">OPTIMUM</tspan></text>
+  <text class="cls-6" transform="translate(155.45 110.12) scale(1.55 1)"><tspan x="0" y="0">GALLE</tspan><tspan class="cls-5" x="57.55" y="0">RY</tspan></text>
+</svg>
